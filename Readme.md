@@ -1,5 +1,4 @@
 Initial commit
 
-// do not make any changes in main branch
 // update main branch/ push/fetch
 // see the status changes
